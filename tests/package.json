@@ -1,0 +1,14 @@
+{
+    "devDependencies": {
+        "@playwright/test": "^1.36.2",
+        "@types/node": "^20.4.8",
+        "@types/uuid": "^8.3.4",
+        "dotenv": "^16.0.1",
+        "playwright-tesults-reporter": "^1.1.0",
+        "uuid": "^8.3.2"
+    },
+    "dependencies": {
+        "chrome-launcher": "^1.1.2",
+        "lighthouse": "^12.2.1"
+    }
+}
